@@ -8,7 +8,7 @@
 
 ## 🖥️ **About Me**
 
-Hi! I'm Nitin Mahadev Mane, a skilled Salesforce Developer with over 3 years of experience in designing scalable and impactful Salesforce solutions. My expertise lies in Apex, LWC, and REST APIs, enabling businesses to maximize their Salesforce potential.
+Hi! I'm Nitin Mahadev Mane, a skilled Salesforce Developer with over 3.8 years of experience in designing scalable and impactful Salesforce solutions. My expertise lies in Apex, LWC, and REST APIs, enabling businesses to maximize their Salesforce potential.
 
 ### 🔍 **What I Do**
 - Develop and optimize Salesforce solutions for better performance and scalability.

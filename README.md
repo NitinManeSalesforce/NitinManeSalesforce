@@ -40,7 +40,8 @@ Hi! I'm Nitin Mahadev Mane, a skilled Salesforce Developer with over 3 years of 
 
 ## 🏅 **Certifications**
 
-- **Platform Developer I**  
+- **Platform Developer I**
+- **AI Associate**
 - **Trailhead Ranger**
 
 ---

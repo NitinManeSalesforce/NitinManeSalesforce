@@ -1,6 +1,6 @@
 <h1 align="center">✨ Nitin Mahadev Mane ✨</h1>
 <p align="center">
-  <strong>Salesforce Developer | 1x Salesforce Certified | 1x Trailhead Ranger</strong><br>
+  <strong>Salesforce Developer | 2x Salesforce Certified | 2x Trailhead Ranger</strong><br>
   Passionate about building robust Salesforce solutions to empower businesses and enhance user experiences!
 </p>
 
